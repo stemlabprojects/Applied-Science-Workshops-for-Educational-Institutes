@@ -158,6 +158,7 @@ Student safety and institutional coordination remain central priorities.
 3. Scheduling  
 4. Workshop delivery  
 5. Optional feedback session  
+
 The program is implemented in a controlled, batch-oriented format to ensure quality delivery, close supervision, and structured academic engagement.
 
 ---
