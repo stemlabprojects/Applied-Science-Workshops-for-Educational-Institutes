@@ -1,5 +1,5 @@
 # Applied Science Workshops for Educational Institutes
-![ASW Banner](header.png)
+![ASW Banner](Header.png)
 
 ---
 
