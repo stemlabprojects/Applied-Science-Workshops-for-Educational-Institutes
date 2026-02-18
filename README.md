@@ -60,31 +60,22 @@ The workshops are designed to enhance, not replace, formal teaching.
 
 ## Core Focus Areas
 
-### 1. Applied Science & Conceptual Experimentation
-Guided practical sessions reinforcing scientific principles through structured demonstrations and analytical discussions.
+## Core Focus Areas
 
-### 2. Measurement & Instrumentation Fundamentals
-Introduction to measurement systems and observation-based reasoning aligned with curriculum.
+### 1. Applied Science & Conceptual Experimentation  
+Guided practical sessions that reinforce scientific principles through structured demonstrations and analytical discussion.
 
-### 3. Innovation & Structured Problem-Solving
-Encouraging logical thinking and real-world scientific reasoning.
+### 2. Measurement & Instrumentation Fundamentals  
+Introduction to measurement systems and observation-based reasoning aligned with academic curriculum.
 
-### 4. Introductory System Thinking
-Understanding how scientific principles translate into practical applications.
+### 3. Innovation & Structured Problem-Solving  
+Encouraging logical thinking and practical scientific reasoning through guided activities.
 
-### 5. Process Discipline & Introductory Production Awareness
+### 4. System Thinking & Application Awareness  
+Understanding how scientific principles connect to real-world systems and structured implementation.
 
-Introducing students to the importance of structured processes, workflow thinking, and systematic execution in real-world environments.
-
-Focus includes:
-
-- Understanding step-by-step system development  
-- Respect for material handling and resource use  
-- Introduction to basic production-oriented thinking  
-- Awareness of how scientific concepts translate into manufacturing and applied systems  
-
-The objective is to develop responsible technical engagement and structured problem-solving habits at an age-appropriate level.
-
+### 5. Process Discipline & Production Orientation  
+Introducing students to step-by-step system development, responsible material handling, and awareness of how scientific concepts translate into organized production and applied environments.
 
 ---
 
