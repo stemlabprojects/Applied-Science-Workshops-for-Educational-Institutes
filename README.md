@@ -60,8 +60,6 @@ The workshops are designed to enhance, not replace, formal teaching.
 
 ## Core Focus Areas
 
-## Core Focus Areas
-
 ### 1. Applied Science & Conceptual Experimentation  
 Guided practical sessions that reinforce scientific principles through structured demonstrations and analytical discussion.
 
