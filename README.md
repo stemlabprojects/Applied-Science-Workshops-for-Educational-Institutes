@@ -72,6 +72,20 @@ Encouraging logical thinking and real-world scientific reasoning.
 ### 4. Introductory System Thinking
 Understanding how scientific principles translate into practical applications.
 
+### 5. Process Discipline & Introductory Production Awareness
+
+Introducing students to the importance of structured processes, workflow thinking, and systematic execution in real-world environments.
+
+Focus includes:
+
+- Understanding step-by-step system development  
+- Respect for material handling and resource use  
+- Introduction to basic production-oriented thinking  
+- Awareness of how scientific concepts translate into manufacturing and applied systems  
+
+The objective is to develop responsible technical engagement and structured problem-solving habits at an age-appropriate level.
+
+
 ---
 
 ## Structured Level Framework
