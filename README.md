@@ -159,16 +159,40 @@ Student safety and institutional coordination remain central priorities.
 
 ## About the Facilitator
 
-Amit Mishra is an engineering professional with experience in applied technical environments and structured training programs.
+Amit Mishra is an engineering professional with experience across applied technical environments, structured training programs, and production-oriented systems.
 
-His work focuses on:
+His professional exposure includes:
 
-- Structured and outcome-oriented sessions  
-- Measurement-based learning  
-- Process discipline  
-- Guided experimentation  
+- Embedded systems training and practical electronics  
+- Measurement and instrumentation-based applications  
+- System-level understanding of hardware environments  
+- Industrial exposure to structured workflows and process discipline  
+- Participation in technology-driven and manufacturing-oriented settings  
 
-The initiative operates with clarity, documentation, and institutional alignment.
+In addition to technical industry exposure, he has academic teaching experience supporting students preparing for competitive examinations such as:
+
+- IIT-JEE  
+- NEET  
+- GATE  
+
+His approach to applied science education emphasizes:
+
+- Conceptual clarity before implementation  
+- Observation-based reasoning  
+- Measurement-driven understanding  
+- Structured documentation habits  
+- Safe and supervised engagement  
+- Gradual progression of complexity  
+
+The workshops are designed with a focus on disciplined execution rather than rapid model completion. Emphasis is placed on understanding processes, interpreting results, and maintaining academic alignment.
+
+The initiative operates under a framework of:
+
+- Technical integrity  
+- Institutional respect  
+- Controlled scalability  
+- Documentation-driven methodology  
+
 
 ---
 
