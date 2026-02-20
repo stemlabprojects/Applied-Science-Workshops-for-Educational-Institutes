@@ -11,7 +11,7 @@
 
 ## Vision
 
-To empower educational institutions through structured, hands-on workshops that cultivate manufacturing awareness, analytical process thinking, measurement discipline, and real-world technical competence.
+To develop students with disciplined analytical thinking, manufacturing awareness, measurement-based understanding, and practical system competence through structured applied science workshops.
 
 ---
 
