@@ -11,7 +11,7 @@
 
 ## Vision
 
-To develop structured, hands-on applied science workshops that strengthen measurement literacy, analytical reasoning, and practical engineering awareness within educational institutions.
+To empower educational institutions through structured, hands-on workshops that cultivate manufacturing awareness, analytical process thinking, measurement discipline, and real-world technical competence.
 
 ---
 
