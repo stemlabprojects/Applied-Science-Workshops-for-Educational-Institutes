@@ -114,6 +114,15 @@ Higher-level conceptual engagement for senior students.
 
 ---
 
+## Workshop Modules (Technical Repository)
+
+Detailed project modules, experimental structures,
+and technical documentation are maintained separately:
+
+🔗 https://github.com/stemlabprojects/ASW-Workshop-Modules
+
+---
+
 ## Educational Outcomes
 
 Students are expected to develop:
