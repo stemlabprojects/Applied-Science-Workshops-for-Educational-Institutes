@@ -34,6 +34,16 @@ The workshops are designed to enhance — not replace — formal academic instru
 
 ---
 
+## Educational Alignment
+
+The workshops are designed to complement existing academic curriculum rather than operate as independent extracurricular activities.
+
+Wherever possible, demonstrations and experimental discussions are aligned with topics already present in school and college science syllabi. This allows students to observe practical aspects of concepts they encounter during formal classroom instruction.
+
+The objective is to strengthen conceptual clarity, observation discipline, and applied understanding without disrupting institutional academic schedules.
+
+--
+
 ## Core Focus Areas
 
 ### 1. Applied Science & Conceptual Experimentation
@@ -183,3 +193,15 @@ Key developmental goals include:
 Growth philosophy remains quality-driven and academically aligned.
 
 The initiative functions as a complementary applied learning platform designed to strengthen structured scientific thinking within educational institutions.
+
+--
+
+## Collaboration
+
+The initiative remains open to academic and technical collaborations.
+
+In certain cases, workshop modules or experimental demonstrations may also be developed in collaboration with open-source projects, educational communities, or technical groups that require structured hands-on demonstrations for learning purposes.
+
+Such collaborations can be discussed based on scope, academic relevance, and available resources.
+
+--
