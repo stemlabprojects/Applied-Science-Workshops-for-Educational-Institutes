@@ -42,7 +42,7 @@ Wherever possible, demonstrations and experimental discussions are aligned with 
 
 The objective is to strengthen conceptual clarity, observation discipline, and applied understanding without disrupting institutional academic schedules.
 
---
+---
 
 ## Core Focus Areas
 
@@ -203,7 +203,7 @@ Growth philosophy remains quality-driven and academically aligned.
 
 The initiative functions as a complementary applied learning platform designed to strengthen structured scientific thinking within educational institutions.
 
---
+---
 
 ## Collaboration
 
@@ -213,4 +213,4 @@ In certain cases, workshop modules or experimental demonstrations may also be de
 
 Such collaborations can be discussed based on scope, academic relevance, and available resources.
 
---
+---
